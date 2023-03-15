@@ -12,22 +12,22 @@ global.headerText = "Anya by Pika" // text for header of menu
 global.DocumentTitle = "MASTER⚔️PIKA" 
 
 
-global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['916900904828'] 
+global.ownername = "janiya"   // Owner name //        
+global.ownernumber = ['94765743034'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
-global.region = "India" // your country name
-global.state = "Assam" // your state name
-global.district = "Dibrugarh" // your district name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "3.69_pika" // Your insta ID
-global.email = "example@exmaple.com" // put your email here
+global.region = "sri lanka" // your country name
+global.state = "wedikubura" // your state name
+global.district = "monaragala" // your district name
+global.timezone = "Asia/colombo" // search on google if you don't know the timezone of your country //
+global.instagramId = "" // Your insta ID
+global.email = "janithpramudya@gmail.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
 global.premium = ['916900******','917355******']  // available soon
-global.sudo = ['916900******','917355******']  // Co - Owners //
+global.sudo = ['94765743034']  // Co - Owners //
 
 global.prefa = ['-']
 
@@ -41,8 +41,8 @@ footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
 footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
 
 //--------Left message "Nikal msg"--------\\
-nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
-nikalmsg2 = 'Patt se headshot 🔫...Abey dil se bura lagta hai bhai 😂.'
+nikalmsg1 = 'palayan wuththo yanna😚🖕🏻' 
+nikalmsg2 = 'headshot 🔫... 😂.'
 
 //--------Random Tagall msg--------\\
 tag1 = '𝘏𝘦𝘺 𝘦𝘷𝘦𝘳𝘺𝘣𝘰𝘥𝘺😚, 𝘊𝘰𝘮𝘦 𝘰𝘯𝘭𝘪𝘯𝘦 𝘢𝘯𝘥 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘢𝘸𝘦𝘴𝘰𝘮𝘦 𝘉𝘰𝘵.' 
@@ -83,7 +83,7 @@ global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg2.jpeg")
 global.autoTyping = false 
 global.autoreadpmngc = false 
 global.autoReadGc = false 
-global.autoRecord = false 
+global.autoRecord = true 
 global.available = true
 global.autoTyping = false 
 
